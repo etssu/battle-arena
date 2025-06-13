@@ -1,0 +1,3 @@
+/mnt/d/programming/uni/PROG2/z6/cmake-build-debug/CMakeFiles/z6.dir
+/mnt/d/programming/uni/PROG2/z6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/programming/uni/PROG2/z6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

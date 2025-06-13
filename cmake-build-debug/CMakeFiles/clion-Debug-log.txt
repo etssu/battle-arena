@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/d/programming/uni/PROG2/z6 -B /mnt/d/programming/uni/PROG2/z6/cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.3s)
+-- Build files have been written to: /mnt/d/programming/uni/PROG2/z6/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/z6.dir/main.c.o CMakeFiles/z6.dir/graphics.c.o CMakeFiles/z6.dir/logic.c.o CMakeFiles/z6.dir/data.c.o -o z6  -lcurses /usr/lib/x86_64-linux-gnu/libform.so
